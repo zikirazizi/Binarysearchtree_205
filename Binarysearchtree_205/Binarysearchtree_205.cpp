@@ -44,5 +44,4 @@ public:
 			ROOT = newNode; // Mark the new node as ROOT
 			return; // exit
 		}
-
 		

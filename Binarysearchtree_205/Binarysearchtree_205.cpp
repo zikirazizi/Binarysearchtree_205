@@ -44,4 +44,5 @@ public:
 			ROOT = newNode; // Mark the new node as ROOT
 			return; // exit
 		}
+		if (element < parent->info)// If value in the data field of the new node is less than that of parent
 		
